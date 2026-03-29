@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Áries é o primeiro signo do zodíaco, regido por Marte. Os arianos são conhecidos por sua energia, coragem e espírito pioneiro. São determinados, impulsivos e gostam de liderar.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Touro é regido por Vênus e representa estabilidade e praticidade. Os taurinos são pacientes, leais e apreciam conforto e segurança. Possuem forte determinação e persistência.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Gêmeos é regido por Mercúrio e simboliza comunicação e versatilidade. Os geminianos são curiosos, adaptáveis e sociáveis. Adoram aprender e compartilhar conhecimento.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>21/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Câncer é regido pela Lua e representa emoção e intuição. Os cancerianos são sensíveis, protetores e valorizam família e lar. Possuem forte conexão emocional com os outros.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Leão é regido pelo Sol e simboliza criatividade e liderança. Os leoninos são confiantes, generosos e carismáticos. Gostam de estar no centro das atenções e inspirar outros.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virgem é regido por Mercúrio e representa análise e perfeccionismo. Os virginianos são detalhistas, organizados e práticos. Buscam sempre melhorar e ajudar os outros.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Libra é regido por Vênus e simboliza equilíbrio e harmonia. Os librianos são diplomáticos, justos e apreciam beleza e arte. Buscam paz e relacionamentos harmoniosos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpião é regido por Plutão e Marte, simbolizando intensidade e transformação. Os escorpianos são profundos, determinados e misteriosos. Possuem forte intuição e paixão.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Sagitário é regido por Júpiter e representa expansão e otimismo. Os sagitarianos são aventureiros, filosóficos e honestos. Amam liberdade e buscar novos horizontes.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Capricórnio é regido por Saturno e simboliza ambição e responsabilidade. Os capricornianos são disciplinados, práticos e persistentes. Valorizam trabalho duro e conquistas.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Aquário é regido por Urano e representa inovação e humanitarismo. Os aquarianos são originais, independentes e visionários. Valorizam liberdade e causas sociais.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Peixes é regido por Netuno e simboliza sensibilidade e espiritualidade. Os piscianos são empáticos, criativos e intuitivos. Possuem forte conexão com o mundo emocional e espiritual.</descricao>
+    </signo>
+</signos>
